@@ -18,8 +18,6 @@
   Update-Database
   ```
 
-  ![image-20200508010813901](C:\Users\Ricardo Flores\AppData\Roaming\Typora\typora-user-images\image-20200508010813901.png)
-
 - Run the project
 
 - Register a user:  http://localhost:54844/api/auth/register
